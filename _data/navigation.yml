@@ -10,6 +10,8 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+  - title: "Privacy"
+    url: /privacy/
   - title: "Blog"
     url: https://a920604a.github.io/blog/
   - title: "CV"
