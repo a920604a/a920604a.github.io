@@ -1,6 +1,6 @@
 ---
 title: "Privacy Page"
-permalink: /privacy
+permalink: privacy/
 ---
 
 
